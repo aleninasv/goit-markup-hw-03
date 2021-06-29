@@ -213,10 +213,9 @@ body a {
   margin-top: -30px
 }
 .team-list {
-  width: 270px;
-  height: 368px;
   background-color: #ffffff;
   box-shadow: 0px 4px 4px 0px #00000040;
+  border-radius: 0px 0px 4px 4px;
   flex-basis: calc((100% - 120px) / 4);
   margin-left: 30px;
   margin-top: 30px;
@@ -236,6 +235,7 @@ body a {
   font-size: 16px;
   font-weight: 400;
   text-align: center;
+  margin-bottom: 30px;
 }
 /*--FOOTER STYLE--*/
 .page-footer {
