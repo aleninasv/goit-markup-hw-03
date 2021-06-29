@@ -54,9 +54,9 @@ body a {
   padding-bottom: 25px;
 }
 .logo {
-  display: block;
   margin-right: 93px;
   border: 0px;
+  margin-bottom: -4px;
 }
 .menu-list:not( :last-child),
 .contacts-list:not( :last-child) {
@@ -107,6 +107,7 @@ body a {
 /*--CONTACTS STYLE--*/
 .contacts-link {
   color: var(--text-color);
+  margin-bottom: -4px;
 }
 .contacts-link:hover,
 .contacts-link:focus {
